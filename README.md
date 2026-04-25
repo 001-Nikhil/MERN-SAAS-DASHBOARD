@@ -40,3 +40,6 @@ Working project with MongoDB integration
 
 ### Dashboard
 <img width="1920" height="1020" alt="Screenshot 2026-04-26 020331" src="https://github.com/user-attachments/assets/eaf673f9-0a74-4fa7-8ca1-9a0ced3c7f82" />
+
+## Architecture
+Frontend (React) → Backend (Express API) → MongoDB (Mongoose)
