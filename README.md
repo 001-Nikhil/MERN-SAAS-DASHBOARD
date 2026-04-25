@@ -33,3 +33,10 @@ Each request is scoped using a tenantId, ensuring users can only access their or
 
 ## Status
 Working project with MongoDB integration
+
+## Screenshots
+### Login
+<img width="1920" height="1020" alt="Screenshot 2026-04-26 020314" src="https://github.com/user-attachments/assets/a4d6abda-122c-4f4c-9370-7b5a21dd4355" />
+
+### Dashboard
+<img width="1920" height="1020" alt="Screenshot 2026-04-26 020331" src="https://github.com/user-attachments/assets/eaf673f9-0a74-4fa7-8ca1-9a0ced3c7f82" />
