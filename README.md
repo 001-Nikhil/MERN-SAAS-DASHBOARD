@@ -153,4 +153,4 @@ npm start
 
 ## Author
 
-Nikhil Thakur [GitHub](https://github.com/001-Nikhil)
+Nikhil Thakur [LinkedIn](https://www.linkedin.com/in/nikhil-thakur-239273342/)
